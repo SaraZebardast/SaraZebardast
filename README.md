@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaraZebardast
 - 🌱 I’m a freshman at Bilkent university 
-- ✨ I'm majoring in Computer engineering 
+- ✨ I'm majoring in Computer Engineering 
 
 <!---
 SaraZebardast/SaraZebardast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
