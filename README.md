@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaraZebardast
-- 🌱 I’m a freshman at Bilkent university 
+- 🌱 I’m a second year student at Bilkent university 
 - ✨ I'm majoring in Computer Engineering 
 
 <!---
