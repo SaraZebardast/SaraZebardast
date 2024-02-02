@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaraZebardast
-- 🌱 I’m a third year student at Bilkent university 
+- 🌱 I’m a senior student at Bilkent university studying Information Systems and Technologies
 
 <!---
 SaraZebardast/SaraZebardast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
